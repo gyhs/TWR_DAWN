@@ -9,6 +9,10 @@ focus_tree = {
 			tag = KOR
 		}
 	}
+	continuous_focus_position = {
+		x = 50
+		y = 1000
+	}
 	
 	default = no
 
